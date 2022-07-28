@@ -1,5 +1,5 @@
 - #Sobre mim
-- 👋 olá, meu nome é evelyn
+- 👋 olá, meu nome é **@evelyn**
 - 👀 Eu sou interessado em aprender a programar novas linguagens
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de javascript e schatch 
 
